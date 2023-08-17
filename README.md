@@ -1,6 +1,5 @@
 # https-yes-cirs.github.io-
 Rectificación de repositorio nº 1   
-<!doctype html>
 <html>
   <head>
     <meta charset="utf-8" />
@@ -29,6 +28,6 @@ Rectificación de repositorio nº 1
     </ul>
     <p>Gracias por su paciencia</p>
     <button>Cambiar de usuario</button>
-    <script src="scripts/main.js"></script>
+    <script src="main/scripts/main.js"></script>
   </body>
 </html>
